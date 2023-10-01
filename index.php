@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>App Store Website Template | Smarteyeapps.com</title>
+        <title>App Store | IT Consultant</title>
         <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
         <link rel="shortcut icon" href="assets/images/fav.jpg">
@@ -45,7 +45,7 @@
                    <div class="col-md-4 text-end">
                        <div class="dropdown pt-2">
                           <a class="cp pt-4 fw-bolder fs-8 dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-                            Vinoth Basker
+                            Tera Byte
                           </a>
                           <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">Dashboard</a></li>
