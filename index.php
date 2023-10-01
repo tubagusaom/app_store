@@ -20,15 +20,15 @@
             </div>
             <div id="navbarNav" class="navcol pt-0 d-none d-lg-block">
                 <ul>
-                    <li class="border-bottom"><a href="index.html"><i class="bi  bi-house-door fs-6 me-2"></i> Home</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi fs-6 me-2 bi-window-stack"></i> <i class="bi fs-6  bi-google-play"></i> Applications</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-controller"></i> Games</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-journal-bookmark"></i> Books</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-music-note-beamed"></i> Music</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi fs-6 me-2 bi-film"></i> Movies</a></li>
-                    <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-card-image"></i> Wallpapers</a></li>
-                    <li class="border-bottom"><a href="about.html"><i class="bi me-2 fs-6 bi-info-square"></i> About Us</a></li>
-                    <li class="border-bottom"><a href="contact.html"><i class="bi me-2 bi-chat-left-dots"></i> Contact Us</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi  bi-house-door fs-6 me-2"></i> Home</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi fs-6 me-2 bi-window-stack"></i> <i class="bi fs-6  bi-google-play"></i> Applications</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-controller"></i> Games</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-journal-bookmark"></i> Books</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-music-note-beamed"></i> Music</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi fs-6 me-2 bi-film"></i> Movies</a></li>
+                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-card-image"></i> Wallpapers</a></li>
+                    <li class="border-bottom"><a href="about.php"><i class="bi me-2 fs-6 bi-info-square"></i> About Us</a></li>
+                    <li class="border-bottom"><a href="contact.php"><i class="bi me-2 bi-chat-left-dots"></i> Contact Us</a></li>
                 </ul>
             </div>
         </header>
@@ -57,13 +57,13 @@
                </div>
            </div>
            <div class="section-container p-2 p-xl-4">
-        
+
                 <h4 class="fs-6 fw-bolder my-3 mt-2 mb-4">Mobile Games  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
-                
+
                 <div class="row m-0">
                     <div class="col-md-4 mb-3">
                           <div class="app-cover p-2 shadow-md bg-white">
-                           <a href="single.html">
+                           <a href="single.php">
                                <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/1.png" alt=""></div>
                                      <div class="det mt-2 col-9">
@@ -84,10 +84,10 @@
                            </a>
                        </div>
                    </div>
-               
+
                 <div class="col-md-4 mb-3">
                       <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.html">
+                        <a href="single.php">
                             <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/2.png" alt=""></div>
                                  <div class="det mt-2 col-9">
@@ -108,10 +108,10 @@
                         </a>
                    </div>
                </div>
-               
+
                 <div class="col-md-4 mb-3">
                       <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.html">
+                        <a href="single.php">
                             <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/5.png" alt=""></div>
                                  <div class="det mt-2 col-9">
@@ -132,10 +132,10 @@
                         </a>
                    </div>
                </div>
-               
+
                 <div class="col-md-4 mb-3">
                       <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.html">
+                        <a href="single.php">
                             <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/6.png" alt=""></div>
                                  <div class="det mt-2 col-9">
@@ -156,10 +156,10 @@
                         </a>
                    </div>
                </div>
-               
+
                 <div class="col-md-4 mb-3">
                       <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.html">
+                        <a href="single.php">
                             <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/7.png" alt=""></div>
                                  <div class="det mt-2 col-9">
@@ -180,10 +180,10 @@
                         </a>
                    </div>
                </div>
-               
+
                 <div class="col-md-4 mb-3">
                       <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.html">
+                        <a href="single.php">
                             <div class="row">
                                  <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/8.png" alt=""></div>
                                  <div class="det mt-2 col-9">
@@ -204,11 +204,11 @@
                         </a>
                    </div>
                </div>
-               
+
                <h4 class="fs-6 fw-bolder my-4">Mobile Apps  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
                <div class="row mt-2">
                    <div class="col-md-3 mb-3">
-                       <a href="single.html">
+                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                              <div class="img-cover"> <img class="rounded" src="assets/images/apps/1.png" alt=""></div>
                              <div class="det mt-2">
@@ -227,9 +227,9 @@
                           </div>
                        </a>
                    </div>
-                   
+
                    <div class="col-md-3 mb-3">
-                       <a href="single.html">
+                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                              <div class="img-cover"> <img class="rounded" src="assets/images/apps/4.png" alt=""></div>
                              <div class="det mt-2">
@@ -248,9 +248,9 @@
                           </div>
                        </a>
                    </div>
-                   
+
                    <div class="col-md-3 mb-3">
-                       <a href="single.html">
+                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                              <div class="img-cover"> <img class="rounded" src="assets/images/apps/2.png" alt=""></div>
                              <div class="det mt-2">
@@ -269,9 +269,9 @@
                           </div>
                        </a>
                    </div>
-                   
+
                    <div class="col-md-3 mb-3">
-                       <a href="single.html">
+                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                              <div class="img-cover"> <img class="rounded" src="assets/images/apps/3.png" alt=""></div>
                              <div class="det mt-2">
@@ -291,11 +291,11 @@
                        </a>
                    </div>
                </div>
-               
+
                 <h4 class="fs-6 fw-bolder my-4 mb-3">Top Books  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
-                
+
                 <div class="col-md-4 mb-3">
-                       <a href="single.html">
+                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/1.jpg" alt=""></div>
@@ -318,9 +318,9 @@
                        </div>
                     </a>
                </div>
-               
+
                <div class="col-md-4 mb-3">
-                    <a href="single.html">
+                    <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/2.png" alt=""></div>
@@ -343,10 +343,10 @@
                        </div>
                    </a>
                </div>
-               
-               
+
+
                <div class="col-md-4 mb-3">
-                    <a href="single.html">
+                    <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/3.png" alt=""></div>
@@ -369,10 +369,10 @@
                        </div>
                    </a>
                </div>
-               
-               
+
+
                <div class="col-md-4 mb-3">
-                    <a href="single.html">
+                    <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/4.png" alt=""></div>
@@ -395,10 +395,10 @@
                        </div>
                    </a>
                </div>
-               
-               
+
+
                <div class="col-md-4 mb-3">
-                      <a href="single.html">
+                      <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/5.png" alt=""></div>
@@ -421,9 +421,9 @@
                        </div>
                    </a>
                </div>
-               
+
                <div class="col-md-4 mb-3">
-                    <a href="single.html">
+                    <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
                                  <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/6.jpg" alt=""></div>
@@ -446,12 +446,12 @@
                        </div>
                    </a>
                </div>
-               
-               
+
+
                 <h4 class="fs-6 fw-bolder mt-2 mb-3">Top Movies  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
-                
+
                <div class="col-md-3 mb-3">
-                   <a href="single.html">
+                   <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                          <div class="img-cover"> <img class="rounded" src="assets/images/movies/1.jpg" alt=""></div>
                          <div class="det mt-2">
@@ -470,9 +470,9 @@
                       </div>
                    </a>
                </div>
-               
+
                <div class="col-md-3 mb-3">
-                   <a href="single.html">
+                   <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                          <div class="img-cover"> <img class="rounded" src="assets/images/movies/2.png" alt=""></div>
                          <div class="det mt-2">
@@ -491,11 +491,11 @@
                       </div>
                    </a>
                </div>
-               
-               
-               
+
+
+
                <div class="col-md-3 mb-3">
-                   <a href="single.html">
+                   <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                          <div class="img-cover"> <img class="rounded" src="assets/images/movies/3.png" alt=""></div>
                          <div class="det mt-2">
@@ -514,10 +514,10 @@
                       </div>
                    </a>
                </div>
-               
-               
+
+
                <div class="col-md-3 mb-3">
-                   <a href="single.html">
+                   <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                          <div class="img-cover"> <img class="rounded" src="assets/images/movies/4.jpg" alt=""></div>
                          <div class="det mt-2">
@@ -536,8 +536,8 @@
                       </div>
                    </a>
                </div>
-               
-               
+
+
             </div>
            </div>
         </div>

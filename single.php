@@ -20,15 +20,15 @@
                 </div>
                 <div id="navbarNav" class="navcol pt-0 d-none d-lg-block">
                     <ul>
-                        <li class="border-bottom"><a href="index.html"><i class="bi  bi-house-door fs-6 me-2"></i> Home</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi fs-6 me-2 bi-window-stack"></i> <i class="bi fs-6  bi-google-play"></i> Applications</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-controller"></i> Games</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-journal-bookmark"></i> Books</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-music-note-beamed"></i> Music</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi fs-6 me-2 bi-film"></i> Movies</a></li>
-                        <li class="border-bottom"><a href="index.html"><i class="bi me-2 fs-6  bi-card-image"></i> Wallpapers</a></li>
-                        <li class="border-bottom"><a href="about.html"><i class="bi me-2 fs-6 bi-info-square"></i> About Us</a></li>
-                        <li class="border-bottom"><a href="contact.html"><i class="bi me-2 bi-chat-left-dots"></i> Contact Us</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi  bi-house-door fs-6 me-2"></i> Home</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi fs-6 me-2 bi-window-stack"></i> <i class="bi fs-6  bi-google-play"></i> Applications</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi me-2 fs-6  bi-controller"></i> Games</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi me-2 fs-6  bi-journal-bookmark"></i> Books</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi me-2 fs-6  bi-music-note-beamed"></i> Music</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi fs-6 me-2 bi-film"></i> Movies</a></li>
+                        <li class="border-bottom"><a href="index.php"><i class="bi me-2 fs-6  bi-card-image"></i> Wallpapers</a></li>
+                        <li class="border-bottom"><a href="about.php"><i class="bi me-2 fs-6 bi-info-square"></i> About Us</a></li>
+                        <li class="border-bottom"><a href="contact.php"><i class="bi me-2 bi-chat-left-dots"></i> Contact Us</a></li>
                     </ul>
                 </div>
             </header>
@@ -65,11 +65,11 @@
                                 </div>
                                 <div class="col-md-8 p-2">
                                     <h4 class="fw-semi fs-4 mb-3">GT Car Stunt Master 3D</h4>
-                                    
+
                                     <button class="btn btn-primary w-45 fw-semi fs-8 py-2 me-3"> Download </button>
                                     <button class="btn border ps-3 w-45 fw-semi fs-8 py-2 btn-outlie-primary"> Add to Wish List </button>
-                                    
-                                   
+
+
 
                                     <div class="row pt-4">
                                         <div class="col-md-4 col-6 text-center">
@@ -81,7 +81,7 @@
                                             <p>Downloads</p>
                                         </div>
                                     </div>
-                                    
+
                                      <div class="auth pt-4">
                                         <h6 class="text-primary fw-semi mb-0">Zego Global Publishing</h6>
                                         <p class="fs-8">contains Ads</p>
@@ -96,7 +96,7 @@
                             <div class="about row p-2 py-3  bg-white mt-4 shadow-sm">
                                 <h4 class="fw-semi fs-5">Review</h4>
                                <div class="row m-0 reviewrow p-3 px-0 border-bottom">
-                                    <div class="col-md-12 align-items-center col-9 rcolm"> 
+                                    <div class="col-md-12 align-items-center col-9 rcolm">
                                         <div class="review">
                                             <li class="col-8 ratfac">
                                                  <i class="bi text-warning bi-star-fill"></i>
@@ -104,7 +104,7 @@
                                                  <i class="bi text-warning bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
-                                             </li>              
+                                             </li>
                                         </div>
                                         <h3 class="fs-6 fw-semi mt-2">Vinoth kumar
 
@@ -121,7 +121,7 @@
                                 </div>
 
                                 <div class="row m-0 reviewrow p-3 px-0 border-bottom">
-                                    <div class="col-md-12 align-items-center col-9 rcolm"> 
+                                    <div class="col-md-12 align-items-center col-9 rcolm">
                                         <div class="review">
                                             <li class="col-8 ratfac">
                                                  <i class="bi text-warning bi-star-fill"></i>
@@ -129,7 +129,7 @@
                                                  <i class="bi text-warning bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
-                                             </li>              
+                                             </li>
                                         </div>
                                         <h3 class="fs-6 fw-semi mt-2">Vinoth kumar
 
@@ -146,7 +146,7 @@
                                 </div>
 
                                 <div class="row m-0 reviewrow px-0">
-                                    <div class="col-md-12 align-items-center col-9 rcolm"> 
+                                    <div class="col-md-12 align-items-center col-9 rcolm">
                                         <div class="review">
                                             <li class="col-8 ratfac">
                                                  <i class="bi text-warning bi-star-fill"></i>
@@ -154,7 +154,7 @@
                                                  <i class="bi text-warning bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
                                                  <i class="bi bi-star-fill"></i>
-                                             </li>              
+                                             </li>
                                         </div>
                                         <h3 class="fs-6 fw-semi mt-2">Vinoth kumar
 
@@ -176,7 +176,7 @@
 
                              <div class="col-md-12 mb-3">
                                   <div class="app-cover p-2 shadow-md bg-white">
-                                    <a href="single.html">
+                                    <a href="single.php">
                                         <div class="row">
                                              <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/2.png" alt=""></div>
                                              <div class="det mt-2 col-9">
@@ -200,7 +200,7 @@
 
                            <div class="col-md-12 mb-3">
                               <div class="app-cover p-2 shadow-md bg-white">
-                                <a href="single.html">
+                                <a href="single.php">
                                     <div class="row">
                                          <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/5.png" alt=""></div>
                                          <div class="det mt-2 col-9">
@@ -224,7 +224,7 @@
 
                     <div class="col-md-12 mb-3">
                           <div class="app-cover p-2 shadow-md bg-white">
-                            <a href="single.html">
+                            <a href="single.php">
                                 <div class="row">
                                      <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/6.png" alt=""></div>
                                      <div class="det mt-2 col-9">
@@ -248,7 +248,7 @@
 
                     <div class="col-md-12 mb-3">
                           <div class="app-cover p-2 shadow-md bg-white">
-                            <a href="single.html">
+                            <a href="single.php">
                                 <div class="row">
                                      <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/7.png" alt=""></div>
                                      <div class="det mt-2 col-9">
@@ -272,7 +272,7 @@
 
                     <div class="col-md-12 mb-3">
                           <div class="app-cover p-2 shadow-md bg-white">
-                            <a href="single.html">
+                            <a href="single.php">
                                 <div class="row">
                                      <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/8.png" alt=""></div>
                                      <div class="det mt-2 col-9">
