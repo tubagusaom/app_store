@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Aplikasi Android di TeraBytee</title>
+    <title>Android Apps on TeraBytee</title>
     <link rel="shortcut icon" href="assets/images/appstore.png" type="image/x-icon">
     <link rel="shortcut icon" href="assets/images/appstore.png">
 
