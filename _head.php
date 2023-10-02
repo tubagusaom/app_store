@@ -10,6 +10,21 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+
+    <style>
+        .btn-link {
+            border: none!important;
+            outline: none!important;
+            background: none!important;
+            cursor: pointer!important;
+            text-decoration: none!important;
+            text-align: left!important;
+        }
+
+        .rounded-88 {
+            border-radius: 0.88rem !important;
+        }
+    </style>
 </head>
 
 <header class="head">
