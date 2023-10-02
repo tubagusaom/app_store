@@ -537,12 +537,12 @@ html {
 }
 
 .btn-link {
-  border: none;
-  outline: none;
-  background: none;
-  cursor: pointer;
-  text-decoration: none;
-  text-align: left;
+  border: none!important;
+  outline: none!important;
+  background: none!important;
+  cursor: pointer!important;
+  text-decoration: none!important;
+  text-align: left!important;
 }
 
 .rounded-88 {
