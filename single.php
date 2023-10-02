@@ -33,13 +33,13 @@
                     <div class="col-md-12 ps-4 ps-lg-3">
                         <div class="row bg-white shadow-sm">
                             <div class="col-md-4 p-3">
-                                <img class="w-100" style="border-radius: 0.88rem !important" src="assets/images/apps/<?= $_POST['appimg'] ?>" alt="terabytee">
+                                <img class="w-100" style="border-radius: 0.88rem !important" src="assets/images/apps/<?= isset($_POST['appimg']) ? $_POST['appimg'] : 'terabyteeapp.png' ?>" alt="terabytee">
                             </div>
                             <div class="det col-md-8 p-4">
-                                <h4 class="fw-semi fs-4 mb-0"><?= $_POST['appname'] ?></h4>
-                                <span class="fs-8"><?= $_POST['appkategori'] ?></span>
+                                <h4 class="fw-semi fs-4 mb-0"><?= isset($_POST['appname']) ? $_POST['appname'] : 'TERABYTEE APP' ?></h4>
+                                <span class="fs-8"><?= isset($_POST['appkategori']) ? $_POST['appkategori'] : 'Android Application' ?></span>
 
-                                <a href="assets/apps/<?= $_POST['appfile'] ?>" class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Download </a>
+                                <a href="assets/apps/<?= isset($_POST['appfile']) ? $_POST['appfile'] : '' ?>" class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Download </a>
                                 <!-- <button class="btn border ps-3 w-45 fw-semi fs-8 py-2 btn-outlie-primary"> Add to Wish List </button> -->
 
 
