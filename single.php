@@ -39,6 +39,8 @@
                                 <h4 class="fw-semi fs-4 mb-0"><?= isset($_POST['appname']) ? $_POST['appname'] : 'TERABYTEE APP' ?></h4>
                                 <span class="fs-8"><?= isset($_POST['appkategori']) ? $_POST['appkategori'] : 'Android Application' ?></span>
 
+                                <a href="index.php" class=" fs-8" style="float:right;"><i class="bi fs-6 me-2 bi-arrow-left"></i> Back</a>
+
                                 <a href="assets/apps/<?= isset($_POST['appfile']) ? $_POST['appfile'] : '' ?>" class="btn btn-primary w-100 fw-semi fs-8 py-2 me-3 mt-4"> Download </a>
                                 <!-- <button class="btn border ps-3 w-45 fw-semi fs-8 py-2 btn-outlie-primary"> Add to Wish List </button> -->
 
