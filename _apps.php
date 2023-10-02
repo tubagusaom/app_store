@@ -28,7 +28,7 @@
                     <input type="hidden" name="appimg" value="1.png">
                     <input type="hidden" name="appname" value="Facebook">
                     <input type="hidden" name="appkategori" value="Social Media">
-                    <input type="hidden" name="appfile" value="facebook_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="facebook_terabyteeapp.apk">
 
                 </div>
             </button>
@@ -60,7 +60,7 @@
                     <input type="hidden" name="appimg" value="2.png">
                     <input type="hidden" name="appname" value="Whatsapp">
                     <input type="hidden" name="appkategori" value="Social Media">
-                    <input type="hidden" name="appfile" value="whatsapp_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="whatsapp_terabyteeapp.apk">
 
                 </div>
             </button>
@@ -92,7 +92,7 @@
                     <input type="hidden" name="appimg" value="5.png">
                     <input type="hidden" name="appname" value="Instagram">
                     <input type="hidden" name="appkategori" value="Social Media">
-                    <input type="hidden" name="appfile" value="instagram_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="instagram_terabyteeapp.apk">
 
                 </div>
             </button>
@@ -125,7 +125,7 @@
                     <input type="hidden" name="appimg" value="hd.png">
                     <input type="hidden" name="appname" value="HOMEDEPO">
                     <input type="hidden" name="appkategori" value="Marketplace">
-                    <input type="hidden" name="appfile" value="homedepo_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="homedepo_terabyteeapp.apk">
 
                 </div>
             </button>
@@ -157,7 +157,7 @@
                     <input type="hidden" name="appimg" value="acc.png">
                     <input type="hidden" name="appname" value="Accounting">
                     <input type="hidden" name="appkategori" value="System">
-                    <input type="hidden" name="appfile" value="accounting_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="accounting_terabyteeapp.apk">
 
                 </div>
             </button>
@@ -189,7 +189,7 @@
                     <input type="hidden" name="appimg" value="inv.png">
                     <input type="hidden" name="appname" value="Inventory">
                     <input type="hidden" name="appkategori" value="System">
-                    <input type="hidden" name="appfile" value="inventory_apkterabytee.apk">
+                    <input type="hidden" name="appfile" value="inventory_terabyteeapp.apk">
 
                 </div>
             </button>
