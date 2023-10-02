@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Aplikasi Android di TeraBytee</title>
-    <link rel="shortcut icon" href="assets/images/aps_icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/appstore.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -12,7 +12,7 @@
 
 <header class="head">
     <div class="logo border-bottom">
-        <img class="w-100" src="assets/images/logo.jpg" alt="" />
+        <img class="w-100" src="assets/images/terabyte_app.png" alt="" />
         <a class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi bi-list"></i>
         </a>
