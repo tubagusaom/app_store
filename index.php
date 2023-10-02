@@ -1,37 +1,8 @@
 <!doctype html>
     <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>App Store | IT Consultant</title>
-        <link rel="shortcut icon" href="assets/images/aps_icon.png" type="image/x-icon">
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap" rel="stylesheet">
-        <link rel="shortcut icon" href="assets/images/fav.jpg">
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-        <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
-    </head>
-        <header class="head">
-            <div class="logo border-bottom">
-                <img class="w-100" src="assets/images/logo.jpg" alt="" />
-                 <a class="navbar-toggler d-block d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <i class="bi bi-list"></i>
-                </a>
-            </div>
-            <div id="navbarNav" class="navcol pt-0 d-none d-lg-block">
-                <ul>
-                    <li class="border-bottom"><a href="#"><i class="bi  bi-house-door fs-6 me-2"></i> Home</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi fs-6 me-2 bi-window-stack"></i> <i class="bi fs-6  bi-google-play"></i> Applications</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-controller"></i> Games</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-journal-bookmark"></i> Books</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-music-note-beamed"></i> Music</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi fs-6 me-2 bi-film"></i> Movies</a></li>
-                    <li class="border-bottom"><a href="#"><i class="bi me-2 fs-6  bi-card-image"></i> Wallpapers</a></li>
-                    <li class="border-bottom"><a href="about.php"><i class="bi me-2 fs-6 bi-info-square"></i> About Us</a></li>
-                    <li class="border-bottom"><a href="contact.php"><i class="bi me-2 bi-chat-left-dots"></i> Contact Us</a></li>
-                </ul>
-            </div>
-        </header>
+        
+    <?php require "_head.php" ?>
+
         <div  class="main-content">
            <div class="nav-bar sticky-top-xl bg-white shadow-sm w-100 p-3">
                <div class="row">
@@ -57,155 +28,12 @@
                </div>
            </div>
            <div class="section-container p-2 p-xl-4">
+            <div class="row m-0">
 
-                <h4 class="fs-6 fw-bolder my-3 mt-2 mb-4">Mobile Games  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
+            <?php require_once "_apps.php" ?>
+            <?php require_once "_movies.php" ?>
 
-                <div class="row m-0">
-                    <div class="col-md-4 mb-3">
-                          <div class="app-cover p-2 shadow-md bg-white">
-                           <a href="single.php">
-                               <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/1.png" alt=""></div>
-                                     <div class="det mt-2 col-9">
-                                         <h5 class="mb-0 fs-6">GT Car Racing Game</h5>
-                                         <span class="fs-8">Racing</span>
-                                         <ul class="row">
-                                             <li class="col-8 ratfac">
-                                                 <i class="bi text-warning bi-star-fill"></i>
-                                                 <i class="bi text-warning bi-star-fill"></i>
-                                                 <i class="bi text-warning bi-star-fill"></i>
-                                                 <i class="bi text-warning bi-star-fill"></i>
-                                                 <i class="bi bi-star-fill"></i>
-                                             </li>
-                                             <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                         </ul>
-                                     </div>
-                                </div>
-                           </a>
-                       </div>
-                   </div>
-
-                <div class="col-md-4 mb-3">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.php">
-                            <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/2.png" alt=""></div>
-                                 <div class="det mt-2 col-9">
-                                     <h5 class="mb-0 fs-6">Candy Crash</h5>
-                                     <span class="fs-8">Racing</span>
-                                     <ul class="row">
-                                         <li class="col-8 ratfac">
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi bi-star-fill"></i>
-                                         </li>
-                                         <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                     </ul>
-                                 </div>
-                            </div>
-                        </a>
-                   </div>
-               </div>
-
-                <div class="col-md-4 mb-3">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.php">
-                            <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/5.png" alt=""></div>
-                                 <div class="det mt-2 col-9">
-                                     <h5 class="mb-0 fs-6">Snake Lite</h5>
-                                     <span class="fs-8">Racing</span>
-                                     <ul class="row">
-                                         <li class="col-8 ratfac">
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi bi-star-fill"></i>
-                                         </li>
-                                         <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                     </ul>
-                                 </div>
-                            </div>
-                        </a>
-                   </div>
-               </div>
-
-                <div class="col-md-4 mb-3">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.php">
-                            <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/6.png" alt=""></div>
-                                 <div class="det mt-2 col-9">
-                                     <h5 class="mb-0 fs-6">Snow Race</h5>
-                                     <span class="fs-8">Racing</span>
-                                     <ul class="row">
-                                         <li class="col-8 ratfac">
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi bi-star-fill"></i>
-                                         </li>
-                                         <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                     </ul>
-                                 </div>
-                            </div>
-                        </a>
-                   </div>
-               </div>
-
-                <div class="col-md-4 mb-3">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.php">
-                            <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/7.png" alt=""></div>
-                                 <div class="det mt-2 col-9">
-                                     <h5 class="mb-0 fs-6">Carrom Pool</h5>
-                                     <span class="fs-8">Racing</span>
-                                     <ul class="row">
-                                         <li class="col-8 ratfac">
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi bi-star-fill"></i>
-                                         </li>
-                                         <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                     </ul>
-                                 </div>
-                            </div>
-                        </a>
-                   </div>
-               </div>
-
-                <div class="col-md-4 mb-3">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                        <a href="single.php">
-                            <div class="row">
-                                 <div class="img-cover pe-0 col-3"> <img class="rounded" src="assets/images/games/8.png" alt=""></div>
-                                 <div class="det mt-2 col-9">
-                                     <h5 class="mb-0 fs-6">Temple Run</h5>
-                                     <span class="fs-8">Racing</span>
-                                     <ul class="row">
-                                         <li class="col-8 ratfac">
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi text-warning bi-star-fill"></i>
-                                             <i class="bi bi-star-fill"></i>
-                                         </li>
-                                         <li class="col-4"><span class="text-success float-end">Free</span></li>
-                                     </ul>
-                                 </div>
-                            </div>
-                        </a>
-                   </div>
-               </div>
-
-               <h4 class="fs-6 fw-bolder my-4">Mobile Apps  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
+               <!-- <h4 class="fs-6 fw-bolder my-4">Mobile Apps  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
                <div class="row mt-2">
                    <div class="col-md-3 mb-3">
                        <a href="single.php">
@@ -290,10 +118,9 @@
                           </div>
                        </a>
                    </div>
-               </div>
+               </div> -->
 
-                <h4 class="fs-6 fw-bolder my-4 mb-3">Top Books  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
-
+                <!-- <h4 class="fs-6 fw-bolder my-4 mb-3">Top Books  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
                 <div class="col-md-4 mb-3">
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
@@ -445,97 +272,7 @@
                             </div>
                        </div>
                    </a>
-               </div>
-
-
-                <h4 class="fs-6 fw-bolder mt-2 mb-3">Top Movies  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
-
-               <div class="col-md-3 mb-3">
-                   <a href="single.php">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/1.jpg" alt=""></div>
-                         <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
-                             <ul class="row">
-                                 <li class="col-8 ratfac">
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill"></i>
-                                 </li>
-                                 <li class="col-4"><span class="text-success float-end">Free</span></li>
-                             </ul>
-                         </div>
-                      </div>
-                   </a>
-               </div>
-
-               <div class="col-md-3 mb-3">
-                   <a href="single.php">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/2.png" alt=""></div>
-                         <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
-                             <ul class="row">
-                                 <li class="col-8 ratfac">
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                 </li>
-                                 <li class="col-4"><span class="text-success float-end">Free</span></li>
-                             </ul>
-                         </div>
-                      </div>
-                   </a>
-               </div>
-
-
-
-               <div class="col-md-3 mb-3">
-                   <a href="single.php">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/3.png" alt=""></div>
-                         <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
-                             <ul class="row">
-                                 <li class="col-8 ratfac">
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill"></i>
-                                 </li>
-                                 <li class="col-4"><span class="text-success float-end">Free</span></li>
-                             </ul>
-                         </div>
-                      </div>
-                   </a>
-               </div>
-
-
-               <div class="col-md-3 mb-3">
-                   <a href="single.php">
-                      <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/4.jpg" alt=""></div>
-                         <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
-                             <ul class="row">
-                                 <li class="col-8 ratfac">
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill"></i>
-                                     <i class="bi bi-star-fill"></i>
-                                 </li>
-                                 <li class="col-4"><span class="text-success float-end">Free</span></li>
-                             </ul>
-                         </div>
-                      </div>
-                   </a>
-               </div>
+               </div> -->
 
 
             </div>
