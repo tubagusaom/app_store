@@ -536,4 +536,17 @@ html {
   font-size: 0.9rem;
 }
 
+.btn-link {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+  text-decoration: none;
+  text-align: left;
+}
+
+.rounded-88 {
+  border-radius: 0.88rem !important;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -38,7 +38,7 @@
                    <div class="col-md-3 mb-3">
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
-                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/1.png" alt=""></div>
+                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/1.png" alt="terabytee"></div>
                              <div class="det mt-2">
                                  <h5 class="mb-1 fs-6">Facebook</h5>
                                  <ul class="row">
@@ -59,7 +59,7 @@
                    <div class="col-md-3 mb-3">
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
-                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/4.png" alt=""></div>
+                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/4.png" alt="terabytee"></div>
                              <div class="det mt-2">
                                  <h5 class="mb-1 fs-6">Facebook</h5>
                                  <ul class="row">
@@ -80,7 +80,7 @@
                    <div class="col-md-3 mb-3">
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
-                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/2.png" alt=""></div>
+                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/2.png" alt="terabytee"></div>
                              <div class="det mt-2">
                                  <h5 class="mb-1 fs-6">Facebook</h5>
                                  <ul class="row">
@@ -101,7 +101,7 @@
                    <div class="col-md-3 mb-3">
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
-                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/3.png" alt=""></div>
+                             <div class="img-cover"> <img class="rounded" src="assets/images/apps/3.png" alt="terabytee"></div>
                              <div class="det mt-2">
                                  <h5 class="mb-1 fs-6">Facebook</h5>
                                  <ul class="row">
@@ -125,7 +125,7 @@
                        <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/1.jpg" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/1.jpg" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">No Man of God</h5>
                                      <span class="fs-8">Racing</span>
@@ -150,7 +150,7 @@
                     <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/2.png" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/2.png" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">Super Sonic 2</h5>
                                      <span class="fs-8">Racing</span>
@@ -176,7 +176,7 @@
                     <a href="single.php">
                       <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/3.png" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/3.png" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">The Lost City</h5>
                                      <span class="fs-8">Racing</span>
@@ -202,7 +202,7 @@
                     <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/4.png" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/4.png" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">Spider Man</h5>
                                      <span class="fs-8">Racing</span>
@@ -228,7 +228,7 @@
                       <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/5.png" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/5.png" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">Resident Evil</h5>
                                      <span class="fs-8">Racing</span>
@@ -253,7 +253,7 @@
                     <a href="single.php">
                           <div class="app-cover p-2 shadow-md bg-white">
                             <div class="row">
-                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/6.jpg" alt=""></div>
+                                 <div class="img-cover pe-0 col-4"> <img class="rounded" src="assets/images/books/6.jpg" alt="terabytee"></div>
                                  <div class="det mt-2 col-8">
                                      <h5 class="mb-0 fs-6">Bad Guys</h5>
                                      <span class="fs-8">Racing</span>
