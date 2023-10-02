@@ -1,4 +1,8 @@
-<h4 class="fs-6 fw-bolder mt-5 mb-3">Top Movies  <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a></h4>
+<h4 class="fs-6 fw-bolder mt-5 mb-3">
+    Top Movies
+    <!-- <a class="float-end text-primary text-decoration-underline" href=""><small class="fs-8">View All</small></a> -->
+</h4>
+
                 <div class="col-md-3 mb-3">
                    <a href="#">
                       <div class="app-cover p-2 shadow-md bg-white">
