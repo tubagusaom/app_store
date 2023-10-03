@@ -6,9 +6,9 @@
                 <div class="col-md-3 mb-3">
                    <a href="#">
                       <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/1.jpg" alt=""></div>
+                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/6.png" alt=""></div>
                          <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
+                             <h5 class="mb-1 fs-6"> Spider-Man</h5>
                              <ul class="row">
                                  <li class="col-8 ratfac">
                                      <i class="bi text-warning bi-star-fill"></i>
@@ -27,9 +27,9 @@
                <div class="col-md-3 mb-3">
                    <a href="#">
                       <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/2.png" alt=""></div>
+                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/7.png" alt=""></div>
                          <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
+                             <h5 class="mb-1 fs-6"> Morbius</h5>
                              <ul class="row">
                                  <li class="col-8 ratfac">
                                      <i class="bi text-warning bi-star-fill"></i>
@@ -48,9 +48,9 @@
                <div class="col-md-3 mb-3">
                    <a href="#">
                       <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/3.png" alt=""></div>
+                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/8.png" alt=""></div>
                          <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
+                             <h5 class="mb-1 fs-6"> Batman</h5>
                              <ul class="row">
                                  <li class="col-8 ratfac">
                                      <i class="bi text-warning bi-star-fill"></i>
@@ -69,9 +69,9 @@
                <div class="col-md-3 mb-3">
                    <a href="#">
                       <div class="app-cover p-2 shadow-md bg-white">
-                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/4.jpg" alt=""></div>
+                         <div class="img-cover"> <img class="rounded" src="assets/images/movies/9.png" alt=""></div>
                          <div class="det mt-2">
-                             <h5 class="mb-1 fs-6"> A New Era Downton Abbey</h5>
+                             <h5 class="mb-1 fs-6"> Elektra</h5>
                              <ul class="row">
                                  <li class="col-8 ratfac">
                                      <i class="bi text-warning bi-star-fill"></i>
