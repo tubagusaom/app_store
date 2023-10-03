@@ -15,7 +15,7 @@
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill bi-star-fill"></i>
+                                     <i class="bi text-warning bi-star-fill"></i>
                                  </li>
                                  <li class="col-4"><span class="text-success float-end">Free</span></li>
                              </ul>
@@ -57,7 +57,7 @@
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill bi-star-fill"></i>
+                                     <i class="bi text-warning bi-star-fill"></i>
                                  </li>
                                  <li class="col-4"><span class="text-success float-end">Free</span></li>
                              </ul>
@@ -77,8 +77,8 @@
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
                                      <i class="bi text-warning bi-star-fill"></i>
-                                     <i class="bi bi-star-fill bi-star-fill"></i>
-                                     <i class="bi bi-star-fill bi-star-fill"></i>
+                                     <i class="bi text-warning bi-star-fill"></i>
+                                     <i class="bi text-warning bi-star-fill"></i>
                                  </li>
                                  <li class="col-4"><span class="text-success float-end">Free</span></li>
                              </ul>
