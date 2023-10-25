@@ -44,7 +44,7 @@
 </section> -->
 
 <?php
-    $link1 = "https://software-pendidikan.id/spider-man-no-way-home/";
+    $link1 = "http://75.119.137.215/nonton-spiderman-no-way-home-2021/";
     $link2 = "https://layarkaca21.hair/morbius-3/";
     $link3 = "https://pusatfilm21.art/the-batman-2022/";
     $link4 = "https://layarkaca21.hair/elektra-2/";
