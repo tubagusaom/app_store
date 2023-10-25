@@ -44,8 +44,8 @@
 </section> -->
 
 <?php
-    $link1 = "http://109.123.232.213/spider-man-no-way-home/";
-    $link2 = "http://109.123.232.213/morbius/";
+    $link1 = "https://software-pendidikan.id/spider-man-no-way-home/";
+    $link2 = "https://layarkaca21.hair/morbius-3/";
     $link3 = "https://pusatfilm21.art/the-batman-2022/";
     $link4 = "https://layarkaca21.hair/elektra-2/";
 
