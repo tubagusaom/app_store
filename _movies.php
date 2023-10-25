@@ -4,8 +4,8 @@
 </h4>
 
 <div class="col-md-3 mb-3">
-    <!-- <a href="http://109.123.232.213/spider-man-no-way-home/" target="_blank"> -->
-    <a href="_play_movie.php?film=spider_man_no_way_home" target="_blank">
+    <a href="https://tv1.lk21official.wiki/spider-man-no-way-home-2021/" target="_blank">
+    <!-- <a href="_play_movie.php?film=spider_man_no_way_home" target="_blank"> -->
 
         <div class="app-cover p-2 shadow-md bg-white">
             <div class="img-cover"> <img class="rounded" src="assets/images/movies/6.png" alt=""></div>
